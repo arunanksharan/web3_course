@@ -8,3 +8,4 @@
 1. Signatures
 
 - Onchain Smart Contract Based Signature Verification: https://youtu.be/GPUA2inIkkg
+- Openzeppelin: https://docs.openzeppelin.com/contracts/2.x/api/cryptography#ECDSA
